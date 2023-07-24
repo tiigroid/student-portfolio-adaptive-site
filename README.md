@@ -1,16 +1,11 @@
-# Сайт про путешествия по России
+# Adaptive site
 
 Проект посвящен особенностям и атмосфере внутреннего туризма.
 
-### В верстке сайта применяются:
-* Флекс-бокс контейнеры;
-* Грид контейнеры;
-* Отзывчивая верстка;
-* Методолгия БЭМ.
+### Techs used:
+* Flexbox;
+* Grid layout;
+* Responsive layout;
+* BEM methodology.
 
-### Доработка проекта может включать:
-* Интерактивные элементы;
-* Форму обратной связи;
-* Что-нибудь еще :) Нет предела совершенству.
-
-### [Проект на GitHub Pages](https://tiigroid.github.io/russian-travel/index.html)
+## https://tiigroid.github.io/student-portfolio-adaptive-site/index.html
