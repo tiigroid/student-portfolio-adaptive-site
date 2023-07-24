@@ -1,0 +1,12 @@
+.subtitle_place_cover {
+  max-width: 360px;
+  text-align: center;
+  grid-row: 2;
+  grid-column: 1;
+}
+
+@media screen and (max-width: 720px) {
+  .subtitle_place_cover {
+    max-width: 288px;
+  }
+}

@@ -1,0 +1,27 @@
+.lead {
+  max-width: 984px;
+  padding: 0 48px;
+  margin: 0 auto;
+  display: grid;
+  justify-items: center;
+  grid-template-rows: auto 32px auto 56px auto 8px auto;
+  }
+
+  @media screen and (max-width: 1024px) {
+    .lead {
+      max-width: 928px;
+      padding: 0 24px;
+    }
+  }
+
+  @media screen and (max-width: 768px) {
+    .lead {
+      padding: 0;
+    }
+  }
+
+  @media screen and (max-width: 720px) {
+    .lead {
+      grid-template-rows: auto 16px auto 40px auto 8px auto;
+    }
+  }

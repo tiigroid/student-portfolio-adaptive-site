@@ -1,0 +1,24 @@
+.title_place_card {
+  max-width: 460px;
+  align-self: end;
+}
+
+@media screen and (max-width: 920px) {
+  .title_place_card {
+    font-size: 42px;
+    line-height: 110%;
+  }
+}
+
+@media screen and (max-width: 720px) {
+  .title_place_card {
+    font-size: 32px;
+    line-height: 109%;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .title_place_card {
+    padding-left: 16px;
+  }
+}

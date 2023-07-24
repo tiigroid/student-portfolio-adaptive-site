@@ -1,0 +1,7 @@
+.link_selected {
+  text-decoration: underline;
+}
+
+.link_selected:hover {
+  opacity: 1;
+}

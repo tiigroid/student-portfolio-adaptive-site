@@ -1,0 +1,15 @@
+.title_place_cover {
+  max-width: 560px;
+  text-align: center;
+  align-self: end;
+  grid-row: 1;
+  grid-column: 1;
+}
+
+@media screen and (max-width: 720px) {
+  .title_place_cover {
+    max-width: 230px;
+    font-size: 32px;
+    line-height: 109%;
+  }
+}

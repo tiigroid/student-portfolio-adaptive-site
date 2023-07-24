@@ -1,0 +1,14 @@
+.header__language-box {
+  margin: 0;
+  padding: 18px 0 6px 0;
+  list-style: none;
+  display: grid;
+  grid-auto-flow: column;
+  gap: 18px;
+}
+
+@media screen and (max-width: 425px) {
+  .header__language-box {
+    padding: 14px 0 8px 0;
+  }
+}

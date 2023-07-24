@@ -1,0 +1,10 @@
+.text_place_intro {
+  grid-row: 3;
+  max-width: 690px;
+}
+
+@media screen and (max-width: 768px) {
+  .text_place_intro {
+    max-width: 720px;
+  }
+}

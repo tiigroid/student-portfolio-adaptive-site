@@ -1,0 +1,20 @@
+  .intro__container {
+    width: 100%;
+    max-width: 984px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-rows: auto 40px auto 33px auto;
+  }
+
+
+  @media screen and (max-width: 1024px) {
+    .intro__container {
+      max-width: 928px;
+    }
+  }
+
+  @media screen and (max-width: 768px) {
+    .intro__container {
+      max-width: 720px;
+    }
+  }

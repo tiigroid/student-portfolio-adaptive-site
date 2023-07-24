@@ -1,0 +1,18 @@
+.card__text {
+  height: min-content;
+  display: grid;
+  gap: 26px;
+}
+
+@media screen and (max-width: 720px) {
+  .card__text {
+    max-width: 425px;
+  }
+}
+
+
+@media screen and (max-width: 425px) {
+  .card__text {
+    padding: 0 16px;
+  }
+}

@@ -1,0 +1,17 @@
+.title_place_lead {
+  max-width: 720px;
+  text-align: center;
+}
+
+
+@media screen and (max-width: 720px) {
+  .title_place_lead {
+    max-width: 288px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .title_place_lead {
+    padding: 0 16px;
+  }
+}

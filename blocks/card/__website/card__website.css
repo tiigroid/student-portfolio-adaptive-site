@@ -1,0 +1,11 @@
+.card__website {
+  align-self: end;
+  display: grid;
+  gap: 12px;
+}
+
+@media screen and (max-width: 425px) {
+  .card__website {
+    padding: 0 16px;
+  }
+}

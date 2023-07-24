@@ -1,0 +1,9 @@
+.cover__background {
+  background-image: url(../../../images/cover-mountains.jpg);
+  background-size: cover;
+  opacity: .8;
+  width: 100%;
+  grid-row: 1 / -1;
+  grid-column: 1;
+  z-index: -1;
+}
