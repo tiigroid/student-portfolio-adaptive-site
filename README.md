@@ -1,7 +1,5 @@
 # Adaptive site
 
-Проект посвящен особенностям и атмосфере внутреннего туризма.
-
 ### Techs used:
 * Flexbox;
 * Grid layout;
